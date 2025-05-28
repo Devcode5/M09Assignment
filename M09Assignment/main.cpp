@@ -3,7 +3,9 @@
 //  ProgrammingAssignmentPointers
 //
 //  Created by Aqila Nasiry on 4/15/25.
-//
+/*
+ For this assignment, use pointer notation rather than array notation rather than array notation.
+ */
 
 #include <iostream>
 #include <string>
